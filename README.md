@@ -59,4 +59,8 @@ ____
     - Progress bars for training batches
 
 ### Visualization:
+<img width="1198" height="572" alt="image_2025-04-18_03-39-59" src="https://github.com/user-attachments/assets/274b31f8-1c68-49bd-ad76-9e740d5d8dc2" />
+<img width="1196" height="572" alt="image_2025-04-18_03-40-23" src="https://github.com/user-attachments/assets/6c565cd9-1de2-40de-8459-467d422c4935" />
+
+
 
